@@ -1,5 +1,5 @@
-import { useEffect, useState } from "react";
-import { Button, Flex, Input, Typography } from "antd";
+import { useState } from "react";
+import { Flex, Input, Typography } from "antd";
 import WeatherCard from "./components/WeatherCard";
 
 const { Title } = Typography;
